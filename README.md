@@ -1,3 +1,3 @@
 # hw_netology
 
-Its my git hub
+#Its my git hub
